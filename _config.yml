@@ -1,8 +1,14 @@
 layout_spectrum: 0.2561761
-typography_spectrum: 0.9790547
 color:
   saturation: 1
-  lightness: 0.4484425
   brandStrength: 0.4883322
+  lightness: 0.5633727
   rhythmicContrast: 0.4097744
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.9790547
 name: Aboutgoogle
